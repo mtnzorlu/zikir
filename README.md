@@ -1,2 +1,2 @@
 # zikir
-Zikirmatik
+Zikirmatik, tesbih çek.
